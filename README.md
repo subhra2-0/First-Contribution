@@ -1,2 +1,2 @@
 # First-Contribution
-Learning GIt
+Learning Git with Amit
